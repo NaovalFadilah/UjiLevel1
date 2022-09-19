@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+.container{
+    display: flex;
+}
+.container-kiri{
+    background-color: #cb6a6a;
+    height: 100vh;
+    width: 25vw;
+}
+.ck-atas{
+    background-color: #b9b9b9;
+    height: 100px;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+
+}
+.ck-atas img{
+    width: 50px;
+    height: 50px;
+}
+.ck-bawah{
+    padding: 30px;
+}
+.ckb-data{
+    margin-top: 15px;
+}
+
+.container-kanan{
+    background-color: rgb(255, 255, 255);
+    width: 75vw;
+    height: 100vh;
+}
+.ck-tabel{
+    padding: 100px;
+}
+.ck-title h1{
+    padding-left: 100px;
+}
+.ck-tabel td tr{
+    border: 1px solid black;
+}
+.ck-form{
+    margin-top: 50px;
+}
+.content{
+    padding-left: 100px;
+    margin-;
+}
